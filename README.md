@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Samuel
+# ¡Hola! 👋 Soy Samuel Catalán
 
 ### Desarrollador Junior Full-Stack · 🇬🇹 Guatemala · Abierto a trabajo remoto
 
@@ -47,7 +47,7 @@ el clima de cualquier ciudad.
 
 ## English
 
-👋 Hi, I'm **Samuel** — a **junior full-stack developer** from Guatemala, open to
+👋 Hi, I'm **Samuel Catalán** — a **junior full-stack developer** from Guatemala, open to
 remote work. I build web apps, APIs and tools with **Go, React and TypeScript**,
 with automated tests and CI. Looking for my first developer role.
 
