@@ -55,6 +55,10 @@ y muestra su estado 🟢/🔴, código HTTP y latencia.
 Chat web en Go con **WebSockets**: los mensajes aparecen al instante en todas
 las pantallas. Hub con **goroutines y channels**.
 
+**[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go)** — Microservicios
+Mini-tienda con **arquitectura de microservicios**: 3 servicios en Go (productos,
+inventario, gateway) que se comunican por HTTP; el gateway agrega datos con goroutines.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -80,4 +84,5 @@ with automated tests and CI. Looking for my first developer role.
 [password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption) ·
 [chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go) (Go web AI chat + Ollama) ·
 [web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines) ·
-[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat).
+[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat) ·
+[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture).
