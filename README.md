@@ -71,6 +71,10 @@ exactamente los campos que necesita desde una sola dirección.
 App web en Go para **subir y descargar archivos** (multipart). Nombres saneados
 por seguridad (evita *path traversal*) y pruebas.
 
+**[leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go)** — Tabla de marcadores
+Web en Go con un **ranking** de puntuaciones ordenado (`sort.Slice`) y medallas
+🥇🥈🥉, con concurrencia segura (Mutex).
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -100,4 +104,5 @@ with automated tests and CI. Looking for my first developer role.
 [microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture) ·
 [worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency) ·
 [graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API) ·
-[file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service).
+[file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service) ·
+[leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go) (Go leaderboard / sorting).
