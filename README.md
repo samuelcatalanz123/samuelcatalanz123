@@ -59,6 +59,10 @@ las pantallas. Hub con **goroutines y channels**.
 Mini-tienda con **arquitectura de microservicios**: 3 servicios en Go (productos,
 inventario, gateway) que se comunican por HTTP; el gateway agrega datos con goroutines.
 
+**[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go)** — Cola de tareas (workers)
+Procesa tareas en segundo plano con un **worker pool**: N trabajadores (goroutines)
+toman tareas de una cola (channel). Panel web con progreso en vivo.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -85,4 +89,5 @@ with automated tests and CI. Looking for my first developer role.
 [chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go) (Go web AI chat + Ollama) ·
 [web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines) ·
 [chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat) ·
-[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture).
+[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture) ·
+[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency).
