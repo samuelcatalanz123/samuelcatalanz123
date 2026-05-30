@@ -43,6 +43,14 @@ almacenamiento. Pruebas con `miniredis` (sin servidor real).
 App de **escritorio** en Go + **Fyne** que guarda contraseñas cifradas con
 **Argon2id + AES-256-GCM**. Una contraseña maestra descifra la "caja fuerte".
 
+**[chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go)** — Chat con IA
+App web en Go que conversa con una **IA local** (Ollama), usando JavaScript
+`fetch`. Demuestra integración con modelos de lenguaje (LLM).
+
+**[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go)** — Monitor de webs
+Panel en Go que vigila varias páginas a la vez con **goroutines** (concurrencia)
+y muestra su estado 🟢/🔴, código HTTP y latencia.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -65,4 +73,6 @@ with automated tests and CI. Looking for my first developer role.
 (full-stack Go + React + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
 (Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI) ·
 [urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis) ·
-[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption).
+[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption) ·
+[chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go) (Go web AI chat + Ollama) ·
+[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines).
