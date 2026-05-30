@@ -67,6 +67,10 @@ toman tareas de una cola (channel). Panel web con progreso en vivo.
 API **GraphQL** en Go (biblioteca de libros) con playground: el cliente pide
 exactamente los campos que necesita desde una sola dirección.
 
+**[file-service-go](https://github.com/samuelcatalanz123/file-service-go)** — Servicio de archivos
+App web en Go para **subir y descargar archivos** (multipart). Nombres saneados
+por seguridad (evita *path traversal*) y pruebas.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -95,4 +99,5 @@ with automated tests and CI. Looking for my first developer role.
 [chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat) ·
 [microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture) ·
 [worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency) ·
-[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API).
+[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API) ·
+[file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service).
