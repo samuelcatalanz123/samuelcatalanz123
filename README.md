@@ -39,6 +39,10 @@ el clima de cualquier ciudad.
 App web en Go que acorta enlaces y cuenta los clics, usando **Redis** como
 almacenamiento. Pruebas con `miniredis` (sin servidor real).
 
+**[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go)** — Gestor de contraseñas (escritorio)
+App de **escritorio** en Go + **Fyne** que guarda contraseñas cifradas con
+**Argon2id + AES-256-GCM**. Una contraseña maestra descifra la "caja fuerte".
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -60,4 +64,5 @@ with automated tests and CI. Looking for my first developer role.
 **Featured projects:** [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)
 (full-stack Go + React + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
 (Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI) ·
-[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis).
+[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis) ·
+[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption).
