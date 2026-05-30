@@ -15,6 +15,7 @@ reales. Busco mi primera oportunidad como desarrollador.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -34,7 +35,12 @@ Servidor en Go con `html/template` y SQLite. Crea mazos de tarjetas y estúdialo
 Herramienta de terminal en Go que consume una API externa (Open-Meteo) y muestra
 el clima de cualquier ciudad.
 
-> Los tres proyectos tienen **pruebas automatizadas** e **integración continua (CI)**.
+**[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go)** — Acortador de URLs
+App web en Go que acorta enlaces y cuenta los clics, usando **Redis** como
+almacenamiento. Pruebas con `miniredis` (sin servidor real).
+
+> Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
+> **integración continua (CI)**.
 
 ---
 
@@ -53,4 +59,5 @@ with automated tests and CI. Looking for my first developer role.
 
 **Featured projects:** [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)
 (full-stack Go + React + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
-(Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI).
+(Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI) ·
+[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis).
