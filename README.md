@@ -63,6 +63,10 @@ inventario, gateway) que se comunican por HTTP; el gateway agrega datos con goro
 Procesa tareas en segundo plano con un **worker pool**: N trabajadores (goroutines)
 toman tareas de una cola (channel). Panel web con progreso en vivo.
 
+**[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go)** — API GraphQL
+API **GraphQL** en Go (biblioteca de libros) con playground: el cliente pide
+exactamente los campos que necesita desde una sola dirección.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -90,4 +94,5 @@ with automated tests and CI. Looking for my first developer role.
 [web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines) ·
 [chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat) ·
 [microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture) ·
-[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency).
+[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency) ·
+[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API).
