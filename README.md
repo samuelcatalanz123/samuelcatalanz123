@@ -51,6 +51,10 @@ App web en Go que conversa con una **IA local** (Ollama), usando JavaScript
 Panel en Go que vigila varias páginas a la vez con **goroutines** (concurrencia)
 y muestra su estado 🟢/🔴, código HTTP y latencia.
 
+**[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go)** — Chat en tiempo real
+Chat web en Go con **WebSockets**: los mensajes aparecen al instante en todas
+las pantallas. Hub con **goroutines y channels**.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -75,4 +79,5 @@ with automated tests and CI. Looking for my first developer role.
 [urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis) ·
 [password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption) ·
 [chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go) (Go web AI chat + Ollama) ·
-[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines).
+[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines) ·
+[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat).
