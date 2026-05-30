@@ -79,6 +79,10 @@ Web en Go con un **ranking** de puntuaciones ordenado (`sort.Slice`) y medallas
 Web en Go para pegar texto/código y obtener un **enlace único** para compartirlo.
 HTML escapado por seguridad.
 
+**[todo-go](https://github.com/samuelcatalanz123/todo-go)** — Lista de tareas (base de datos)
+App web en Go con **CRUD** sobre **SQLite**: los datos persisten al reiniciar.
+Consultas con parámetros (anti inyección SQL).
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -110,4 +114,5 @@ with automated tests and CI. Looking for my first developer role.
 [graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API) ·
 [file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service) ·
 [leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go) (Go leaderboard / sorting) ·
-[pastebin-go](https://github.com/samuelcatalanz123/pastebin-go) (Go pastebin / share text).
+[pastebin-go](https://github.com/samuelcatalanz123/pastebin-go) (Go pastebin / share text) ·
+[todo-go](https://github.com/samuelcatalanz123/todo-go) (Go + SQLite CRUD).
