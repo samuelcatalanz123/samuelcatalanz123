@@ -92,6 +92,10 @@ navegación entre pantallas, animaciones y más.
 App móvil en **Flutter** con **registro e inicio de sesión**: cada usuario
 controla sus ingresos, gastos y saldo, con datos propios por cuenta.
 
+**[clima_app](https://github.com/samuelcatalanz123/clima_app)** — App del clima (Flutter)
+App móvil en **Flutter** que trae el **clima real** de cualquier ciudad desde una
+API de internet (Open-Meteo): peticiones HTTP, JSON y estados de carga.
+
 **[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
 Web en Go para crear encuestas, votar y ver resultados con **barras de
 porcentaje**. Comparte un enlace para que todos voten.
