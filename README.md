@@ -16,6 +16,7 @@ reales. Busco mi primera oportunidad como desarrollador.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -82,6 +83,10 @@ HTML escapado por seguridad.
 **[todo-go](https://github.com/samuelcatalanz123/todo-go)** — Lista de tareas (base de datos)
 App web en Go con **CRUD** sobre **SQLite**: los datos persisten al reiniciar.
 Consultas con parámetros (anti inyección SQL).
+
+**[mi_app_flutter](https://github.com/samuelcatalanz123/mi_app_flutter)** — App móvil (Flutter)
+Mi primera app **móvil** con **Flutter** (Dart): modo oscuro, persistencia,
+navegación entre pantallas, animaciones y más.
 
 **[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
 Web en Go para crear encuestas, votar y ver resultados con **barras de
