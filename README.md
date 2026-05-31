@@ -83,6 +83,10 @@ HTML escapado por seguridad.
 App web en Go con **CRUD** sobre **SQLite**: los datos persisten al reiniciar.
 Consultas con parámetros (anti inyección SQL).
 
+**[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
+Web en Go para crear encuestas, votar y ver resultados con **barras de
+porcentaje**. Comparte un enlace para que todos voten.
+
 > Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
 > **integración continua (CI)**.
 
@@ -115,4 +119,5 @@ with automated tests and CI. Looking for my first developer role.
 [file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service) ·
 [leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go) (Go leaderboard / sorting) ·
 [pastebin-go](https://github.com/samuelcatalanz123/pastebin-go) (Go pastebin / share text) ·
-[todo-go](https://github.com/samuelcatalanz123/todo-go) (Go + SQLite CRUD).
+[todo-go](https://github.com/samuelcatalanz123/todo-go) (Go + SQLite CRUD) ·
+[voting-go](https://github.com/samuelcatalanz123/voting-go) (Go voting/polls app).
