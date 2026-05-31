@@ -88,6 +88,10 @@ Consultas con parámetros (anti inyección SQL).
 Mi primera app **móvil** con **Flutter** (Dart): modo oscuro, persistencia,
 navegación entre pantallas, animaciones y más.
 
+**[app_gastos](https://github.com/samuelcatalanz123/app_gastos)** — App de gastos (Flutter)
+App móvil en **Flutter** con **registro e inicio de sesión**: cada usuario
+controla sus ingresos, gastos y saldo, con datos propios por cuenta.
+
 **[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
 Web en Go para crear encuestas, votar y ver resultados con **barras de
 porcentaje**. Comparte un enlace para que todos voten.
