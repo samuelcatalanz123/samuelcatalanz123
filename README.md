@@ -96,6 +96,10 @@ controla sus ingresos, gastos y saldo, con datos propios por cuenta.
 App móvil en **Flutter** que trae el **clima real** de cualquier ciudad desde una
 API de internet (Open-Meteo): peticiones HTTP, JSON y estados de carga.
 
+**[calculadora](https://github.com/samuelcatalanz123/calculadora)** — Calculadora (Flutter)
+Calculadora en **Flutter** con operaciones básicas: cuadrícula de botones (creada
+con bucles) y la lógica de cálculo.
+
 **[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
 Web en Go para crear encuestas, votar y ver resultados con **barras de
 porcentaje**. Comparte un enlace para que todos voten.
