@@ -6,6 +6,14 @@ Construyo aplicaciones web, APIs y herramientas con **Go, React y TypeScript**.
 Me apasiona aprender, escribir código limpio y con pruebas, y resolver problemas
 reales. Busco mi primera oportunidad como desarrollador.
 
+### 🌐 Mira mi portafolio en vivo 👉 **https://samuelcatalanz123.github.io/portafolio/**
+
+Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
+🌤️ [Clima](https://samuelcatalanz123.github.io/clima-app-web/) ·
+🧮 [Calculadora](https://samuelcatalanz123.github.io/calculadora-web/) ·
+💰 [Gastos (con login)](https://samuelcatalanz123.github.io/app-gastos-web/) ·
+🎉 [Mi primera app](https://samuelcatalanz123.github.io/mi-app-flutter-web/)
+
 ---
 
 ### 🛠️ Tecnologías
