@@ -9,6 +9,7 @@ reales. Busco mi primera oportunidad como desarrollador.
 ### 🌐 Mira mi portafolio en vivo 👉 **https://samuelcatalanz123.github.io/portafolio/**
 
 Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
+📚 [Mis Deberes](https://samuelcatalanz123.github.io/mis-deberes-web/) ·
 🌤️ [Clima](https://samuelcatalanz123.github.io/clima-app-web/) ·
 🧮 [Calculadora](https://samuelcatalanz123.github.io/calculadora-web/) ·
 💰 [Gastos (con login)](https://samuelcatalanz123.github.io/app-gastos-web/) ·
