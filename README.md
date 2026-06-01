@@ -36,6 +36,10 @@ Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
 API REST en Go + MySQL y un panel en React + TypeScript: autenticación JWT,
 búsqueda, paginación, diseño profesional, pruebas y Docker.
 
+**[gopost-api](https://github.com/samuelcatalanz123/gopost-api)** — API REST de un blog
+API en Go + MySQL con **autenticación JWT** y arquitectura por capas
+(handlers → services → repositories). Contraseñas cifradas con **bcrypt** y pruebas.
+
 **[flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)** — App web de tarjetas de estudio
 Servidor en Go con `html/template` y SQLite. Crea mazos de tarjetas y estúdialos
 (pregunta → respuesta → siguiente).
@@ -131,7 +135,8 @@ remote work. I build web apps, APIs and tools with **Go, React and TypeScript**,
 with automated tests and CI. Looking for my first developer role.
 
 **Featured projects:** [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)
-(full-stack Go + React + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
+(full-stack Go + React + MySQL) · [gopost-api](https://github.com/samuelcatalanz123/gopost-api)
+(Go REST API + JWT auth + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
 (Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI) ·
 [urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis) ·
 [password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption) ·
