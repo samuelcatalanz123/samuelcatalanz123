@@ -9,6 +9,7 @@ reales. Busco mi primera oportunidad como desarrollador.
 ### 🌐 Mira mi portafolio en vivo 👉 **https://samuelcatalanz123.github.io/portafolio/**
 
 Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
+🌋 [Volcanes de Guatemala](https://samuelcatalanz123.github.io/volcanes-gt/) ·
 📚 [Mis Deberes](https://samuelcatalanz123.github.io/mis-deberes-web/) ·
 🌤️ [Clima](https://samuelcatalanz123.github.io/clima-app-web/) ·
 🧮 [Calculadora](https://samuelcatalanz123.github.io/calculadora-web/) ·
@@ -32,6 +33,11 @@ Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
 ---
 
 ### 🚀 Proyectos destacados
+
+**[volcanes-gt](https://github.com/samuelcatalanz123/volcanes-gt)** — Mapa de Guatemala (Flutter) · [▶️ en vivo](https://samuelcatalanz123.github.io/volcanes-gt/)
+App de mapa con los **volcanes y lugares turísticos de Guatemala**: 25 volcanes,
+22 departamentos, lagos, playas, fotos, **GPS**, **clima en vivo** (Open-Meteo) y
+datos reales de **OpenStreetMap** (gasolineras, aldeas, ríos). Instalable (PWA).
 
 **[story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)** — App web full-stack
 API REST en Go + MySQL y un panel en React + TypeScript: autenticación JWT,
