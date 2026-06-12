@@ -123,8 +123,7 @@ con bucles) y la lógica de cálculo.
 Web en Go para crear encuestas, votar y ver resultados con **barras de
 porcentaje**. Comparte un enlace para que todos voten.
 
-> Todos los proyectos incluyen **pruebas automatizadas**, la mayoría con
-> **integración continua (CI)**.
+> Todos los proyectos Go incluyen **pruebas automatizadas**.
 
 ---
 
@@ -139,7 +138,7 @@ porcentaje**. Comparte un enlace para que todos voten.
 
 👋 Hi, I'm **Samuel Catalán** — a **junior full-stack developer** from Guatemala, open to
 remote work. I build web apps, APIs and tools with **Go, React and TypeScript**,
-with automated tests and CI. Looking for my first developer role.
+with automated tests. Looking for my first developer role.
 
 **Featured projects:** [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)
 (full-stack Go + React + MySQL) · [gopost-api](https://github.com/samuelcatalanz123/gopost-api)
