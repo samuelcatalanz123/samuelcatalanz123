@@ -1,20 +1,14 @@
 # ¡Hola! 👋 Soy Samuel Catalán
 
-### Desarrollador Junior Full-Stack · 🇬🇹 Guatemala · Abierto a trabajo remoto
+### 🐹 Desarrollador Backend en Go · Full-Stack · 🇬🇹 Guatemala · Abierto a trabajo remoto
 
-Construyo aplicaciones web, APIs y herramientas con **Go, React y TypeScript**.
-Me apasiona aprender, escribir código limpio y con pruebas, y resolver problemas
-reales. Busco mi primera oportunidad como desarrollador.
+Construyo **APIs, servicios y aplicaciones web con Go** (mi enfoque principal), y
+también con **React + TypeScript** y **Flutter**. Me apasiona escribir código
+limpio, con **pruebas automatizadas**, y resolver problemas reales. Busco mi
+primera oportunidad como desarrollador, idealmente en **backend con Go**.
 
-### 🌐 Mira mi portafolio en vivo 👉 **https://samuelcatalanz123.github.io/portafolio/**
-
-Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
-🌋 [Volcanes de Guatemala](https://samuelcatalanz123.github.io/volcanes-gt/) ·
-📚 [Mis Deberes](https://samuelcatalanz123.github.io/mis-deberes-web/) ·
-🌤️ [Clima](https://samuelcatalanz123.github.io/clima-app-web/) ·
-🧮 [Calculadora](https://samuelcatalanz123.github.io/calculadora-web/) ·
-💰 [Gastos (con login)](https://samuelcatalanz123.github.io/app-gastos-web/) ·
-🎉 [Mi primera app](https://samuelcatalanz123.github.io/mi-app-flutter-web/)
+🌐 **Mira mi portafolio en vivo** 👉 **https://samuelcatalanz123.github.io/portafolio/**
+📧 samuelcatalanz123@gmail.com
 
 ---
 
@@ -26,104 +20,79 @@ Apps que puedes **abrir y usar ahora mismo** desde tu teléfono:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Proyectos destacados
+### 📊 Mi actividad en GitHub
 
-**[volcanes-gt](https://github.com/samuelcatalanz123/volcanes-gt)** — Mapa de Guatemala (Flutter) · [▶️ en vivo](https://samuelcatalanz123.github.io/volcanes-gt/)
-App de mapa con los **volcanes y lugares turísticos de Guatemala**: 25 volcanes,
-22 departamentos, lagos, playas, fotos, **GPS**, **clima en vivo** (Open-Meteo) y
-datos reales de **OpenStreetMap** (gasolineras, aldeas, ríos). Instalable (PWA).
+<a href="https://github.com/samuelcatalanz123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelcatalanz123&show_icons=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8" alt="Estadísticas de GitHub de Samuel" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcatalanz123&layout=compact&hide_border=true&title_color=00ADD8&langs_count=8" alt="Lenguajes más usados" />
+</a>
+
+---
+
+### 🚀 Proyectos destacados (Go)
 
 **[story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)** — App web full-stack
-API REST en Go + MySQL y un panel en React + TypeScript: autenticación JWT,
-búsqueda, paginación, diseño profesional, pruebas y Docker.
+API REST en **Go + MySQL** y un panel en **React + TypeScript**: autenticación
+**JWT**, búsqueda, paginación, arquitectura por capas, pruebas y **Docker**.
 
-**[gopost-api](https://github.com/samuelcatalanz123/gopost-api)** — API REST de un blog
-API en Go + MySQL con **autenticación JWT** y arquitectura por capas
-(handlers → services → repositories). Contraseñas cifradas con **bcrypt** y pruebas.
-
-**[flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)** — App web de tarjetas de estudio
-Servidor en Go con `html/template` y SQLite. Crea mazos de tarjetas y estúdialos
-(pregunta → respuesta → siguiente).
-
-**[weather-go](https://github.com/samuelcatalanz123/weather-go)** — CLI del clima
-Herramienta de terminal en Go que consume una API externa (Open-Meteo) y muestra
-el clima de cualquier ciudad.
-
-**[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go)** — Acortador de URLs
-App web en Go que acorta enlaces y cuenta los clics, usando **Redis** como
-almacenamiento. Pruebas con `miniredis` (sin servidor real).
-
-**[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go)** — Gestor de contraseñas (escritorio)
-App de **escritorio** en Go + **Fyne** que guarda contraseñas cifradas con
-**Argon2id + AES-256-GCM**. Una contraseña maestra descifra la "caja fuerte".
-
-**[chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go)** — Chat con IA
-App web en Go que conversa con una **IA local** (Ollama), usando JavaScript
-`fetch`. Demuestra integración con modelos de lenguaje (LLM).
-
-**[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go)** — Monitor de webs
-Panel en Go que vigila varias páginas a la vez con **goroutines** (concurrencia)
-y muestra su estado 🟢/🔴, código HTTP y latencia.
-
-**[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go)** — Chat en tiempo real
-Chat web en Go con **WebSockets**: los mensajes aparecen al instante en todas
-las pantallas. Hub con **goroutines y channels**.
+**[productos-api](https://github.com/samuelcatalanz123/productos-api)** — API REST con autenticación
+API en **Go + MySQL** con **JWT** y arquitectura por capas. Contraseñas cifradas
+con **bcrypt**, middleware propio, respuestas en JSON/XML/YAML y **Docker**.
 
 **[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go)** — Microservicios
 Mini-tienda con **arquitectura de microservicios**: 3 servicios en Go (productos,
 inventario, gateway) que se comunican por HTTP; el gateway agrega datos con goroutines.
 
+**[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go)** — Chat en tiempo real
+Chat web en Go con **WebSockets**: los mensajes aparecen al instante en todas las
+pantallas. Hub con **goroutines y channels**.
+
+**[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go)** — Acortador de URLs
+App web en Go que acorta enlaces y cuenta los clics, usando **Redis** como
+almacenamiento. Pruebas con `miniredis` y CI.
+
 **[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go)** — Cola de tareas (workers)
 Procesa tareas en segundo plano con un **worker pool**: N trabajadores (goroutines)
 toman tareas de una cola (channel). Panel web con progreso en vivo.
 
-**[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go)** — API GraphQL
-API **GraphQL** en Go (biblioteca de libros) con playground: el cliente pide
-exactamente los campos que necesita desde una sola dirección.
+> 💡 Todos mis proyectos en Go incluyen **pruebas automatizadas**.
 
-**[file-service-go](https://github.com/samuelcatalanz123/file-service-go)** — Servicio de archivos
-App web en Go para **subir y descargar archivos** (multipart). Nombres saneados
-por seguridad (evita *path traversal*) y pruebas.
+<details>
+<summary>📂 <b>Ver todos mis proyectos</b> (más de 20)</summary>
 
-**[leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go)** — Tabla de marcadores
-Web en Go con un **ranking** de puntuaciones ordenado (`sort.Slice`) y medallas
-🥇🥈🥉, con concurrencia segura (Mutex).
+<br>
 
-**[pastebin-go](https://github.com/samuelcatalanz123/pastebin-go)** — Pastebin
-Web en Go para pegar texto/código y obtener un **enlace único** para compartirlo.
-HTML escapado por seguridad.
+**Más proyectos en Go**
 
-**[todo-go](https://github.com/samuelcatalanz123/todo-go)** — Lista de tareas (base de datos)
-App web en Go con **CRUD** sobre **SQLite**: los datos persisten al reiniciar.
-Consultas con parámetros (anti inyección SQL).
+- **[gopost-api](https://github.com/samuelcatalanz123/gopost-api)** — API REST de un blog en Go + MySQL con JWT y bcrypt.
+- **[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go)** — API **GraphQL** en Go con playground.
+- **[file-service-go](https://github.com/samuelcatalanz123/file-service-go)** — Subir/descargar archivos (multipart), con nombres saneados (seguridad).
+- **[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go)** — Monitor de webs con **goroutines** (estado 🟢/🔴, código, latencia).
+- **[leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go)** — Ranking de puntuaciones ordenado, con concurrencia segura (Mutex).
+- **[pastebin-go](https://github.com/samuelcatalanz123/pastebin-go)** — Pega texto/código y obtén un enlace único (HTML escapado).
+- **[voting-go](https://github.com/samuelcatalanz123/voting-go)** — Encuestas: vota y mira resultados con barras de porcentaje.
+- **[todo-go](https://github.com/samuelcatalanz123/todo-go)** — Lista de tareas con **CRUD** sobre **SQLite** (consultas con parámetros).
+- **[flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)** — Tarjetas de estudio (Go + `html/template` + SQLite).
+- **[weather-go](https://github.com/samuelcatalanz123/weather-go)** — **CLI** del clima que consume una API externa (Open-Meteo).
+- **[chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go)** — Chat con **IA local** (Ollama) desde una web.
+- **[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go)** — Gestor de contraseñas de **escritorio** (Go + Fyne, cifrado Argon2id + AES-256-GCM).
 
-**[mi_app_flutter](https://github.com/samuelcatalanz123/mi_app_flutter)** — App móvil (Flutter)
-Mi primera app **móvil** con **Flutter** (Dart): modo oscuro, persistencia,
-navegación entre pantallas, animaciones y más.
+**Apps móviles y web (Flutter) — ¡pruébalas en vivo!**
 
-**[app_gastos](https://github.com/samuelcatalanz123/app_gastos)** — App de gastos (Flutter)
-App móvil en **Flutter** con **registro e inicio de sesión**: cada usuario
-controla sus ingresos, gastos y saldo, con datos propios por cuenta.
+- 🌋 **[volcanes-gt](https://github.com/samuelcatalanz123/volcanes-gt)** — Mapa de Guatemala con GPS y clima · [▶️ en vivo](https://samuelcatalanz123.github.io/volcanes-gt/)
+- 📚 **[mis-deberes](https://github.com/samuelcatalanz123/mis_deberes)** — Tareas del colegio · [▶️ en vivo](https://samuelcatalanz123.github.io/mis-deberes-web/)
+- 💰 **[app_gastos](https://github.com/samuelcatalanz123/app_gastos)** — Gastos con login · [▶️ en vivo](https://samuelcatalanz123.github.io/app-gastos-web/)
+- 🌤️ **[clima_app](https://github.com/samuelcatalanz123/clima_app)** — Clima real por ciudad · [▶️ en vivo](https://samuelcatalanz123.github.io/clima-app-web/)
+- 🧮 **[calculadora](https://github.com/samuelcatalanz123/calculadora)** — Calculadora · [▶️ en vivo](https://samuelcatalanz123.github.io/calculadora-web/)
+- 🎉 **[mi_app_flutter](https://github.com/samuelcatalanz123/mi_app_flutter)** — Mi primera app móvil · [▶️ en vivo](https://samuelcatalanz123.github.io/mi-app-flutter-web/)
 
-**[clima_app](https://github.com/samuelcatalanz123/clima_app)** — App del clima (Flutter)
-App móvil en **Flutter** que trae el **clima real** de cualquier ciudad desde una
-API de internet (Open-Meteo): peticiones HTTP, JSON y estados de carga.
-
-**[calculadora](https://github.com/samuelcatalanz123/calculadora)** — Calculadora (Flutter)
-Calculadora en **Flutter** con operaciones básicas: cuadrícula de botones (creada
-con bucles) y la lógica de cálculo.
-
-**[voting-go](https://github.com/samuelcatalanz123/voting-go)** — App de votaciones
-Web en Go para crear encuestas, votar y ver resultados con **barras de
-porcentaje**. Comparte un enlace para que todos voten.
-
-> Todos los proyectos Go incluyen **pruebas automatizadas**.
+</details>
 
 ---
 
@@ -131,29 +100,23 @@ porcentaje**. Comparte un enlace para que todos voten.
 
 - 💻 GitHub: [@samuelcatalanz123](https://github.com/samuelcatalanz123)
 - 📧 Email: samuelcatalanz123@gmail.com
+- 🌐 Portafolio: [samuelcatalanz123.github.io/portafolio](https://samuelcatalanz123.github.io/portafolio/)
 
 ---
 
 ## English
 
-👋 Hi, I'm **Samuel Catalán** — a **junior full-stack developer** from Guatemala, open to
-remote work. I build web apps, APIs and tools with **Go, React and TypeScript**,
-with automated tests. Looking for my first developer role.
+👋 Hi, I'm **Samuel Catalán** — a **Go backend developer** (also full-stack) from
+Guatemala, open to remote work. I build APIs, services and web apps with **Go**
+(my main focus), plus **React + TypeScript** and **Flutter** — all with automated
+tests. Looking for my first developer role, ideally in **Go backend**.
 
-**Featured projects:** [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)
-(full-stack Go + React + MySQL) · [gopost-api](https://github.com/samuelcatalanz123/gopost-api)
-(Go REST API + JWT auth + MySQL) · [flashcards-go](https://github.com/samuelcatalanz123/flashcards-go)
-(Go web app + SQLite) · [weather-go](https://github.com/samuelcatalanz123/weather-go) (Go CLI) ·
-[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go web app + Redis) ·
-[password-manager-go](https://github.com/samuelcatalanz123/password-manager-go) (Go desktop app + Fyne, encryption) ·
-[chat-ia-go](https://github.com/samuelcatalanz123/chat-ia-go) (Go web AI chat + Ollama) ·
-[web-monitor-go](https://github.com/samuelcatalanz123/web-monitor-go) (Go concurrency / goroutines) ·
-[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (Go WebSockets real-time chat) ·
-[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (Go microservices architecture) ·
-[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (Go worker pool / concurrency) ·
-[graphql-api-go](https://github.com/samuelcatalanz123/graphql-api-go) (Go GraphQL API) ·
-[file-service-go](https://github.com/samuelcatalanz123/file-service-go) (Go file upload/download service) ·
-[leaderboard-go](https://github.com/samuelcatalanz123/leaderboard-go) (Go leaderboard / sorting) ·
-[pastebin-go](https://github.com/samuelcatalanz123/pastebin-go) (Go pastebin / share text) ·
-[todo-go](https://github.com/samuelcatalanz123/todo-go) (Go + SQLite CRUD) ·
-[voting-go](https://github.com/samuelcatalanz123/voting-go) (Go voting/polls app).
+**Featured Go projects:**
+[story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql) (full-stack Go + React + MySQL, JWT) ·
+[productos-api](https://github.com/samuelcatalanz123/productos-api) (Go REST API + JWT + Docker) ·
+[microservicios-go](https://github.com/samuelcatalanz123/microservicios-go) (microservices) ·
+[chat-tiempo-real-go](https://github.com/samuelcatalanz123/chat-tiempo-real-go) (WebSockets, goroutines) ·
+[urlshortener-go](https://github.com/samuelcatalanz123/urlshortener-go) (Go + Redis) ·
+[worker-pool-go](https://github.com/samuelcatalanz123/worker-pool-go) (concurrency / worker pool).
+
+📧 samuelcatalanz123@gmail.com
