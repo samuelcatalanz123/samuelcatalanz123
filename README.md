@@ -4,7 +4,7 @@
 
 Construyo **APIs, servicios y aplicaciones web con Go** (mi enfoque principal), y
 también con **React + TypeScript** y **Flutter**. Me apasiona escribir código
-limpio, con **pruebas automatizadas**, y resolver problemas reales. Busco mi
+limpio, con **pruebas automatizadas** y **CI (GitHub Actions)**, y resolver problemas reales. Busco mi
 primera oportunidad como desarrollador, idealmente en **backend con Go**.
 
 🌐 **Mira mi portafolio en vivo** 👉 **https://samuelcatalanz123.github.io/portafolio/**
@@ -61,7 +61,11 @@ almacenamiento. Pruebas con `miniredis` y CI.
 Procesa tareas en segundo plano con un **worker pool**: N trabajadores (goroutines)
 toman tareas de una cola (channel). Panel web con progreso en vivo.
 
-> 💡 Todos mis proyectos en Go incluyen **pruebas automatizadas**.
+**[asistente-ia](https://github.com/samuelcatalanz123/asistente-ia)** — Asistente de chat con IA (full-stack)
+App **Flutter + backend Go** conectada a la IA de Groq: **streaming con SSE**, formato de código,
+voz, varias conversaciones, **Docker** y **CI**. Instalable como PWA. 🌐 [en vivo](https://asistente-ia-xh5v.onrender.com)
+
+> 💡 Todos mis proyectos en Go incluyen **pruebas automatizadas** y **CI con GitHub Actions** ✅ (se ejecutan en cada cambio).
 
 <details>
 <summary>📂 <b>Ver todos mis proyectos</b> (más de 20)</summary>
@@ -108,8 +112,7 @@ toman tareas de una cola (channel). Panel web con progreso en vivo.
 
 👋 Hi, I'm **Samuel Catalán** — a **Go backend developer** (also full-stack) from
 Guatemala, open to remote work. I build APIs, services and web apps with **Go**
-(my main focus), plus **React + TypeScript** and **Flutter** — all with automated
-tests. Looking for my first developer role, ideally in **Go backend**.
+(my main focus), plus **React + TypeScript** and **Flutter** — all with automated tests and CI. Looking for my first developer role, ideally in **Go backend**.
 
 **Featured Go projects:**
 [story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql) (full-stack Go + React + MySQL, JWT) ·
