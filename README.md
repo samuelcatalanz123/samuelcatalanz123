@@ -65,6 +65,11 @@ toman tareas de una cola (channel). Panel web con progreso en vivo.
 App **Flutter + backend Go** conectada a la IA de Groq: **streaming con SSE**, formato de código,
 voz, varias conversaciones, **Docker** y **CI**. Instalable como PWA. 🌐 [en vivo](https://asistente-ia-xh5v.onrender.com)
 
+**[dev-tools](https://github.com/samuelcatalanz123/dev-tools)** — Caja de herramientas para programadores
+**PWA** con +20 utilidades (contraseñas, QR, Base64, **JWT**, Regex, JSON, hash...), categorías,
+modo oscuro, favoritos y **funciona sin internet** (service worker). HTML/CSS/JS.
+🌐 [en vivo](https://samuelcatalanz123.github.io/dev-tools/)
+
 > 💡 Todos mis proyectos en Go incluyen **pruebas automatizadas** y **CI con GitHub Actions** ✅ (se ejecutan en cada cambio).
 
 <details>
