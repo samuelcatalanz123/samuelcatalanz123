@@ -37,6 +37,9 @@ primera oportunidad como desarrollador, idealmente en **backend con Go**.
 
 ### 🚀 Proyectos destacados (Go)
 
+**[mi-tienda-go](https://github.com/samuelcatalanz123/mi-tienda-go)** — 🛒 Tienda online full-stack (Go)
+Servidor en **Go** que sirve la API REST **+ la web + PWA instalable**. Funciona con **SQLite y PostgreSQL** (elige solo), **JWT** + bcrypt, carrito, **pedidos**, **panel de admin** (CRUD protegido), buscador, categorías, modo oscuro y **pruebas automatizadas**. Desplegada en Render. 🌐 [en vivo](https://mi-tienda-go.onrender.com)
+
 **[story-go-mysql](https://github.com/samuelcatalanz123/story-go-mysql)** — App web full-stack
 API REST en **Go + MySQL** y un panel en **React + TypeScript**: autenticación
 **JWT**, búsqueda, paginación, arquitectura por capas, pruebas y **Docker**.
@@ -64,10 +67,6 @@ toman tareas de una cola (channel). Panel web con progreso en vivo.
 **[asistente-ia](https://github.com/samuelcatalanz123/asistente-ia)** — Asistente de chat con IA (full-stack)
 App **Flutter + backend Go** conectada a la IA de Groq: **streaming con SSE**, formato de código,
 voz, varias conversaciones, **Docker** y **CI**. Instalable como PWA. 🌐 [en vivo](https://asistente-ia-xh5v.onrender.com)
-
-**[mi-tienda-go](https://github.com/samuelcatalanz123/mi-tienda-go)** — Tienda online full-stack (Go)
-Backend en **Go** + **SQLite** que sirve la API y la web: catálogo de productos, **registro/login con JWT**
-(contraseñas con bcrypt) y **carrito** con total. Desplegada en Render. 🌐 [en vivo](https://mi-tienda-go.onrender.com)
 
 **[dev-tools](https://github.com/samuelcatalanz123/dev-tools)** — Caja de herramientas para programadores
 **PWA** con +20 utilidades (contraseñas, QR, Base64, **JWT**, Regex, JSON, hash...), categorías,
@@ -98,7 +97,7 @@ modo oscuro, favoritos y **funciona sin internet** (service worker). HTML/CSS/JS
 
 **Apps móviles y web (Flutter) — ¡pruébalas en vivo!**
 
-- 🌋 **[volcanes-gt](https://github.com/samuelcatalanz123/volcanes-gt)** — Mapa de Guatemala con GPS y clima · [▶️ en vivo](https://samuelcatalanz123.github.io/volcanes-gt/)
+- 🌋 **[volcanes-gt](https://github.com/samuelcatalanz123/volcanes-gt)** — Mapa de Guatemala con GPS, clima y **navegación por voz** · [▶️ en vivo](https://samuelcatalanz123.github.io/volcanes-gt/)
 - 📚 **[mis-deberes](https://github.com/samuelcatalanz123/mis_deberes)** — Tareas del colegio · [▶️ en vivo](https://samuelcatalanz123.github.io/mis-deberes-web/)
 - 💰 **[app_gastos](https://github.com/samuelcatalanz123/app_gastos)** — Gastos con login · [▶️ en vivo](https://samuelcatalanz123.github.io/app-gastos-web/)
 - 🌤️ **[clima_app](https://github.com/samuelcatalanz123/clima_app)** — Clima real por ciudad · [▶️ en vivo](https://samuelcatalanz123.github.io/clima-app-web/)
